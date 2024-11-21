@@ -10,7 +10,7 @@ import {
     Light,
     Camera,
     Engine,
-  } from "@babylonjs/core";
+  } from "@babylonjs/core"
   
   
   function createBox(scene: Scene) {
